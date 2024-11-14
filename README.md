@@ -13,5 +13,7 @@ This is a placeholder. To be changed later.
     - "Model"/
         - "Model Code"/
         - "Trained Model"/
-- [report].pdf
 - README.md
+
+## Link to GDrive 
+[DSA4266 Group 5 Final Submission]([url](https://drive.google.com/drive/folders/1ulTA6HubY_LSpWAriNVhpa8a8lXuRGGp?usp=sharing))
